@@ -15,7 +15,7 @@ apt install python
 ```
 apt install python2
 ```
-```
+
 git clone https://github.com/GH05T-HUNTER5/GH05T-INSTA
 ```
 ```
